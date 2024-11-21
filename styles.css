@@ -1,6 +1,9 @@
 body{
     background: black ;
-    color: cyan;]
+    color: cyan;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-bottom: 100px;
+}
 
 section{
     background-color: darkmagenta;
@@ -13,7 +16,8 @@ header{
  margin: 5%;
  font-size: 40px;
  text-align: center;
- color: lavenderblush;   
+ color: lavenderblush; 
+   
 }img{
     height: 200px;
 }
